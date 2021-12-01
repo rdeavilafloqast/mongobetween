@@ -1,4 +1,4 @@
-module github.com/coinbase/mongobetween
+module github.com/rdeavilafloqast/mongobetween
 
 go 1.13
 
