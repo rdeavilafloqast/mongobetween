@@ -11,7 +11,7 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/coinbase/mongobetween/config"
+	"github.com/rdeavilafloqast/mongobetween/config"
 )
 
 func main() {

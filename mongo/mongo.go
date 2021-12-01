@@ -23,7 +23,7 @@ import (
 	"go.mongodb.org/mongo-driver/x/mongo/driver/topology"
 	"go.uber.org/zap"
 
-	"github.com/coinbase/mongobetween/util"
+	"github.com/rdeavilafloqast/mongobetween/util"
 )
 
 const pingTimeout = 60 * time.Second

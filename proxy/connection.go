@@ -10,7 +10,7 @@ import (
 	"github.com/DataDog/datadog-go/statsd"
 	"go.uber.org/zap"
 
-	"github.com/coinbase/mongobetween/mongo"
+	"github.com/rdeavilafloqast/mongobetween/mongo"
 )
 
 type connection struct {

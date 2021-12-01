@@ -2,8 +2,8 @@ package mongo_test
 
 import (
 	"github.com/DataDog/datadog-go/statsd"
-	"github.com/coinbase/mongobetween/mongo"
-	"github.com/coinbase/mongobetween/proxy"
+	"github.com/rdeavilafloqast/mongobetween/mongo"
+	"github.com/rdeavilafloqast/mongobetween/proxy"
 	"github.com/stretchr/testify/assert"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

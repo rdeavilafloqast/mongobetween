@@ -14,8 +14,8 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/coinbase/mongobetween/mongo"
-	"github.com/coinbase/mongobetween/proxy"
+	"github.com/rdeavilafloqast/mongobetween/mongo"
+	"github.com/rdeavilafloqast/mongobetween/proxy"
 )
 
 const usernamePlaceholder = "_"

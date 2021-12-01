@@ -16,7 +16,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/writeconcern"
 	"go.uber.org/zap"
 
-	mongob "github.com/coinbase/mongobetween/mongo"
+	mongob "github.com/rdeavilafloqast/mongobetween/mongo"
 )
 
 var (

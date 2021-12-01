@@ -5,7 +5,7 @@ import (
 
 	"go.mongodb.org/mongo-driver/x/mongo/driver"
 
-	"github.com/coinbase/mongobetween/lruttl"
+	"github.com/rdeavilafloqast/mongobetween/lruttl"
 )
 
 // on a 64-bit machine, 1 million cursors uses around 480mb of memory
